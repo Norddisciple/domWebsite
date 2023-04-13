@@ -2,10 +2,11 @@
 
 Меня зовут Эдгар. Я веб-мастер. UI/UX дизайнер. Фрилансер.
 
-[Мое Фото](https://elements-video-cover-images-0.imgix.net/files/ba902ba8-d144-4c30-85da-ec1fc72c4724/inline_image_preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=8c9f0dcbb8da9c8d62f27340651bf35d)
+![Мое Фото](https://user-images.githubusercontent.com/121438737/231858517-8d342d05-1cf0-4508-85cc-24887e2b2c34.jpg)
+
 
 # Несколько фактов обо мне
-1. Возраст 40+
+1. Возраст 30+
 2. На фрилансе более 15 лет
 3. Последние 8 лет занимаюсь только веб-дизайном
 4. Имею несколько своих интернет проектов не связанных с дизайном
